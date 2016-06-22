@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# sha1_extract_3_1.sh
+# sha1_extract.sh
 # Version 0.3
 
 JDK_VERSION=1.8.0_25					# version of JDK tested with this script
